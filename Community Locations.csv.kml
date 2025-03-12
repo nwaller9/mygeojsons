@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Community Locations.csv</name>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Towne Mill P2 & 3 (LN)]]></name>
+      <description><![CDATA[Community Number: 71003920000<br>Address1: Towne Mill Crossing<br>Address2: <br>City: Canton<br>ZipCode: 30114<br>Column1: 1<br>LAT: 34.30827577<br>LON: -84.4660638]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100392E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>Towne Mill Crossing</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Canton</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30114.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.30827577</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.4660638</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.4660638,34.30827577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Creekside</name>
+      <description><![CDATA[Community Number: 71005300000<br>Address1: Rivertown Road<br>Address2: <br>City: Fairburn<br>ZipCode: 30213<br>Column1: 1<br>LAT: 33.56961397<br>LON: -84.64090042]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.10053E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>Rivertown Road</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Fairburn</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30213.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.56961397</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.64090042</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.64090042,33.56961397,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Oaks at Dawson</name>
+      <description><![CDATA[Community Number: 71005900000<br>Address1: 2329 Dawson Forest E.<br>Address2: <br>City: Dawsonville<br>ZipCode: 30534<br>Column1: 1<br>LAT: 34.35605846<br>LON: -84.07535644]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.10059E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>2329 Dawson Forest E.</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Dawsonville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30534.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.35605846</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.07535644</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.07535644,34.35605846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vines at Mill Creek - 55 - SF</name>
+      <description><![CDATA[Community Number: 71006200000<br>Address1: Duncan Creek Road & Reeves Road NE<br>Address2: <br>City: Braselton<br>ZipCode: 30517<br>Column1: 1<br>LAT: 34.09068543<br>LON: -83.85203843]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.10062E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Duncan Creek Road & Reeves Road NE]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Braselton</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30517.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.09068543</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.85203843</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.85203843,34.09068543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vines at Mill Creek - 70 - SF</name>
+      <description><![CDATA[Community Number: 71006250000<br>Address1: Duncan Creek Road & Reeves Road NE<br>Address2: <br>City: Braselton<br>ZipCode: 30517<br>Column1: 1<br>LAT: 34.09068543<br>LON: -83.85203843]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100625E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Duncan Creek Road & Reeves Road NE]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Braselton</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30517.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.09068543</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.85203843</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.85203843,34.09068543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parkside at Grayson 40 SF LN</name>
+      <description><![CDATA[Community Number: 71006550000<br>Address1: 325 Grayson New Hope Road<br>Address2: <br>City: Grayson<br>ZipCode: 30017<br>Column1: 1<br>LAT: 33.90790974<br>LON: -83.93905077]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100655E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>325 Grayson New Hope Road</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Grayson</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30017.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.90790974</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.93905077</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.93905077,33.90790974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Preserve at Mountain Creek 65s</name>
+      <description><![CDATA[Community Number: 71006700000<br>Address1: 438 Glenn Gee Road<br>Address2: <br>City: Pendergrass<br>ZipCode: 30567<br>Column1: 1<br>LAT: 34.15436266<br>LON: -83.68690401]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.10067E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>438 Glenn Gee Road</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Pendergrass</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30567.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.15436266</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.68690401</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.68690401,34.15436266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cedar Shoals 65 SF - LN</name>
+      <description><![CDATA[Community Number: 71006950000<br>Address1: Covington Bypass Rd and Flat Shoals Rd<br>Address2: <br>City: Porterdale<br>ZipCode: 30014<br>Column1: 1<br>LAT: 33.56496585<br>LON: -83.87142263]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100695E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>Covington Bypass Rd and Flat Shoals Rd</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Porterdale</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30014.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.56496585</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.87142263</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.87142263,33.56496585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manning Mill - 30 - LN</name>
+      <description><![CDATA[Community Number: 71007000000<br>Address1: Manning Mill Rd & Adairsville Pleasant<br>Address2: Valley Road NW<br>City: Adairsville<br>ZipCode: 30103<br>Column1: 1<br>LAT: 34.3453062<br>LON: -84.90594463]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.1007E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Manning Mill Rd & Adairsville Pleasant]]></value>
+        </Data>
+        <Data name="Address2">
+          <value>Valley Road NW</value>
+        </Data>
+        <Data name="City">
+          <value>Adairsville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30103.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.3453062</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.90594463</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.90594463,34.3453062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manning Mill - 40 - LN</name>
+      <description><![CDATA[Community Number: 71007010000<br>Address1: Manning Mill Rd & Adairsville Pleasant<br>Address2: Valley Road NW<br>City: Adairsville<br>ZipCode: 30103<br>Column1: 1<br>LAT: 34.3453062<br>LON: -84.90594463]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100701E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Manning Mill Rd & Adairsville Pleasant]]></value>
+        </Data>
+        <Data name="Address2">
+          <value>Valley Road NW</value>
+        </Data>
+        <Data name="City">
+          <value>Adairsville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30103.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.3453062</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.90594463</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.90594463,34.3453062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avalon TH FL - LN</name>
+      <description><![CDATA[Community Number: 71007100000<br>Address1: 1985 Old Covington Hwy SE<br>Address2: <br>City: Conyers<br>ZipCode: 30013<br>Column1: 1<br>LAT: 33.64539585<br>LON: -83.98226925]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.10071E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>1985 Old Covington Hwy SE</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Conyers</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30013.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.64539585</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.98226925</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.98226925,33.64539585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avalon TH RL - LN</name>
+      <description><![CDATA[Community Number: 71007110000<br>Address1: 1985 Old Covington Hwy SE<br>Address2: <br>City: Conyers<br>ZipCode: 30013<br>Column1: 1<br>LAT: 33.64539585<br>LON: -83.98226925]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100711E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>1985 Old Covington Hwy SE</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Conyers</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30013.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.64539585</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.98226925</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.98226925,33.64539585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avalon - 50 - LN</name>
+      <description><![CDATA[Community Number: 71007120000<br>Address1: 1985 Old Covington Hwy SE<br>Address2: <br>City: Conyers<br>ZipCode: 30013<br>Column1: 1<br>LAT: 33.64539585<br>LON: -83.98226925]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100712E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>1985 Old Covington Hwy SE</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Conyers</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30013.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.64539585</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.98226925</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.98226925,33.64539585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Renaissance TH LN</name>
+      <description><![CDATA[Community Number: 71007150000<br>Address1: 7842 Carnegie Drive<br>Address2: <br>City: Fairburn<br>ZipCode: 30213<br>Column1: 1<br>LAT: 33.54330823<br>LON: -84.56903843]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100715E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>7842 Carnegie Drive</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Fairburn</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30213.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.54330823</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.56903843</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.56903843,33.54330823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Martin Springs - 50 - LN</name>
+      <description><![CDATA[Community Number: 71007200000<br>Address1: 897 Springlake Rd<br>Address2: <br>City: Lawrenceville<br>ZipCode: 30045<br>Column1: 1<br>LAT: 33.96344368<br>LON: -83.94860168]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.10072E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>897 Springlake Rd</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Lawrenceville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30045.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.96344368</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.94860168</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.94860168,33.96344368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Martin Springs - 40 BG - LN</name>
+      <description><![CDATA[Community Number: 71007210000<br>Address1: 897 Springlake Rd<br>Address2: <br>City: Lawrenceville<br>ZipCode: 30045<br>Column1: 1<br>LAT: 33.96344368<br>LON: -83.94860168]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100721E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>897 Springlake Rd</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Lawrenceville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30045.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.96344368</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.94860168</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.94860168,33.96344368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Martin Springs TH - LN</name>
+      <description><![CDATA[Community Number: 71007220000<br>Address1: 897 Springlake Rd<br>Address2: <br>City: Lawrenceville<br>ZipCode: 30045<br>Column1: 1<br>LAT: 33.96344368<br>LON: -83.94860168]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100722E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>897 Springlake Rd</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Lawrenceville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30045.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.96344368</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.94860168</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.94860168,33.96344368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ivey Township 60s - LN</name>
+      <description><![CDATA[Community Number: 71006750000<br>Address1: 100 Ivey Twp Drive<br>Address2: <br>City: Dallas<br>ZipCode: 30132<br>Column1: 1<br>LAT: 33.990549<br>LON: -84.8037163]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100675E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>100 Ivey Twp Drive</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Dallas</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30132.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.990549</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.8037163</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.8037163,33.990549,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hawthorne Station SF</name>
+      <description><![CDATA[Community Number: 71006800000<br>Address1: 2801 Aiden Court<br>Address2: <br>City: Atlanta<br>ZipCode: 30337<br>Column1: 1<br>LAT: 33.64647685<br>LON: -84.48100419]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.10068E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>2801 Aiden Court</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Atlanta</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30337.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.64647685</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.48100419</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.48100419,33.64647685,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hemingway - 50 BG - LN</name>
+      <description><![CDATA[Community Number: 71006850000<br>Address1: Hemingway Trail & Marsett Pkwy<br>Address2: <br>City: Cumming<br>ZipCode: 30041<br>Column1: 1<br>LAT: 34.27818842<br>LON: -84.07515986]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100685E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Hemingway Trail & Marsett Pkwy]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Cumming</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30041.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.27818842</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.07515986</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.07515986,34.27818842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hemingway - 50 FL - LN</name>
+      <description><![CDATA[Community Number: 71006860000<br>Address1: Hemingway Trail & Marsett Pkwy<br>Address2: <br>City: Cumming<br>ZipCode: 30041<br>Column1: 1<br>LAT: 34.27818842<br>LON: -84.07515986]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100686E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Hemingway Trail & Marsett Pkwy]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Cumming</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30041.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.27818842</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.07515986</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.07515986,34.27818842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hemingway - 24 FL TH - HFS</name>
+      <description><![CDATA[Community Number: 71006870000<br>Address1: Hemingway Trail & Marsett Pkwy<br>Address2: <br>City: Cumming<br>ZipCode: 30041<br>Column1: 1<br>LAT: 34.27818842<br>LON: -84.07515986]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100687E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Hemingway Trail & Marsett Pkwy]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Cumming</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30041.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.27818842</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.07515986</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.07515986,34.27818842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hemingway - 24 RL TH - LN</name>
+      <description><![CDATA[Community Number: 71006880000<br>Address1: Hemingway Trail & Marsett Pkwy<br>Address2: <br>City: Cumming<br>ZipCode: 30041<br>Column1: 1<br>LAT: 34.27818842<br>LON: -84.07515986]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100688E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Hemingway Trail & Marsett Pkwy]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Cumming</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30041.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>34.27818842</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.07515986</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.07515986,34.27818842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Martin Springs - 60 - LN</name>
+      <description><![CDATA[Community Number: 71007240000<br>Address1: 897 Springlake Rd<br>Address2: <br>City: Lawrenceville<br>ZipCode: 30045<br>Column1: 1<br>LAT: 33.96344368<br>LON: -83.94860168]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100724E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>897 Springlake Rd</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Lawrenceville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30045.0</value>
+        </Data>
+        <Data name="Column1">
+          <value>1.0</value>
+        </Data>
+        <Data name="LAT">
+          <value>33.96344368</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.94860168</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.94860168,33.96344368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moss Farms - DD</name>
+      <description><![CDATA[Community Number: 71099990157<br>Address1: Georgia Interstate #20 & Georgia Highway #44<br>Address2: <br>City: Lula<br>ZipCode: 30554<br>Column1: <br>LAT: 34.396452<br>LON: -83.67525824]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.1099990157E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Georgia Interstate #20 & Georgia Highway #44]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Lula</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30554.0</value>
+        </Data>
+        <Data name="Column1">
+          <value/>
+        </Data>
+        <Data name="LAT">
+          <value>34.396452</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.67525824</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.67525824,34.396452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harmony Manor 55 SF</name>
+      <description><![CDATA[Community Number: 71006400000<br>Address1: Hall Road & Jones Road<br>Address2: <br>City: South Fulton<br>ZipCode: 30213<br>Column1: <br>LAT: 33.61682297<br>LON: -84.62873207]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.10064E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Hall Road & Jones Road]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>South Fulton</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30213.0</value>
+        </Data>
+        <Data name="Column1">
+          <value/>
+        </Data>
+        <Data name="LAT">
+          <value>33.61682297</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.62873207</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.62873207,33.61682297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oconee Village - DD</name>
+      <description><![CDATA[Community Number: 71099990176<br>Address1: Lake Oconee Pkwy & GA-44<br>Address2: <br>City: Greensboro<br>ZipCode: 30642<br>Column1: <br>LAT: 33.542946<br>LON: -83.2087267]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.1099990176E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Lake Oconee Pkwy & GA-44]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Greensboro</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30642.0</value>
+        </Data>
+        <Data name="Column1">
+          <value/>
+        </Data>
+        <Data name="LAT">
+          <value>33.542946</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.2087267</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.2087267,33.542946,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooks Lake TH</name>
+      <description><![CDATA[Community Number: 71007350000<br>Address1: Athens Hwy & BrushyDrive<br>Address2: <br>City: Loganville<br>ZipCode: 30052<br>Column1: <br>LAT: 33.858931<br>LON: -83.94836]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100735E10</value>
+        </Data>
+        <Data name="Address1">
+          <value><![CDATA[Athens Hwy & BrushyDrive]]></value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Loganville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30052.0</value>
+        </Data>
+        <Data name="Column1">
+          <value/>
+        </Data>
+        <Data name="LAT">
+          <value>33.858931</value>
+        </Data>
+        <Data name="LON">
+          <value>-83.94836</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.94836,33.858931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cedar Hill - 42 - LN</name>
+      <description><![CDATA[Community Number: 71007250000<br>Address1: Slater Mill Rd and Mossy View Drive<br>Address2: <br>City: Douglasville<br>ZipCode: 30135<br>Column1: <br>LAT: 33.744585<br>LON: -84.714482]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100725E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>Slater Mill Rd and Mossy View Drive</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>Douglasville</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30135.0</value>
+        </Data>
+        <Data name="Column1">
+          <value/>
+        </Data>
+        <Data name="LAT">
+          <value>33.744585</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.714482</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.714482,33.744585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eagles Hill TH - LN</name>
+      <description><![CDATA[Community Number: 71005010000<br>Address1: SR 42 and Campground Rd.<br>Address2: <br>City: McDonough<br>ZipCode: 30253<br>Column1: <br>LAT: 33.493614<br>LON: -84.181557]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value>7.100501E10</value>
+        </Data>
+        <Data name="Address1">
+          <value>SR 42 and Campground Rd.</value>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value>McDonough</value>
+        </Data>
+        <Data name="ZipCode">
+          <value>30253.0</value>
+        </Data>
+        <Data name="Column1">
+          <value/>
+        </Data>
+        <Data name="LAT">
+          <value>33.493614</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.181557</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.181557,33.493614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Westmont Preserve 51' - LN]]></name>
+      <description><![CDATA[Community Number: <br>Address1: <br>Address2: <br>City: <br>ZipCode: <br>Column1: <br>LAT: 33.84596970804500<br>LON: -84.66736100654650]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="Community Number">
+          <value/>
+        </Data>
+        <Data name="Address1">
+          <value/>
+        </Data>
+        <Data name="Address2">
+          <value/>
+        </Data>
+        <Data name="City">
+          <value/>
+        </Data>
+        <Data name="ZipCode">
+          <value/>
+        </Data>
+        <Data name="Column1">
+          <value/>
+        </Data>
+        <Data name="LAT">
+          <value>33.84596970804500</value>
+        </Data>
+        <Data name="LON">
+          <value>-84.66736100654650</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.6673610065465,33.845969708045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
